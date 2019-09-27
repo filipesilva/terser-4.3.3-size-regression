@@ -1,0 +1,13 @@
+{
+  "name": "terser-4.3.3-size-regression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node terser-test.js",
+    "postinstall": "cd terser-4.3.2 && npm i && cd ../terser-4.3.3 && npm i && cd .."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
