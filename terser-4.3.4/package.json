@@ -1,5 +1,5 @@
 {
-  "name": "terser-4.3.3",
+  "name": "terser-4.3.4",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "terser": "4.3.3"
+    "terser": "4.3.4"
   }
 }
